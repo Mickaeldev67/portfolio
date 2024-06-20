@@ -65,7 +65,7 @@ const projects = [
   {
     name: 'Forum Laravel',
     description:
-      'Exercice de préparation pour l\examen sur la technologie Laravel.',
+      'Exercice de préparation pour l\'examen sur la technologie Laravel.',
     stack: ['Laravel', ],
     sourceCode: 'https://github.com/MickaelLP/2023-laravel-forum',
   },
@@ -93,7 +93,7 @@ const projects = [
   {
     name: 'Première application sur React',
     description:
-      'Première application avec React permettant d\expérimenter la technologie.',
+      'Première application avec React permettant d\'expérimenter la technologie.',
     stack: ['React', ],
     sourceCode: 'https://github.com/MickaelLP/react-first-app',
   },

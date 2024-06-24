@@ -37,7 +37,7 @@ const projects = [
   {
     name: 'Catalog Ikea',
     description:
-      'Application réalisée sous unity en réalité augmenté permettant ',
+      'Application réalisée sous unity en réalité augmenté permettant de choisir des tables et chaises et de le visualiser à partir d\'une image dans le focus de la caméra.',
     stack: ['Unity', 'C#', ],
     sourceCode: 'https://github.com/MickaelLP/ikea-catalog',
   },

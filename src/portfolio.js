@@ -35,6 +35,13 @@ const projects = [
     livePreview: 'https://cuej.info/mini-sites/animaux/www/index.php',
   },
   {
+    name: 'Catalog Ikea',
+    description:
+      'Application réalisée sous unity en réalité augmenté permettant ',
+    stack: ['Unity', 'C#', ],
+    sourceCode: 'https://github.com/MickaelLP/ikea-catalog',
+  },
+  {
     name: 'Snake Game',
     description:
       'TP en javascript qui m\'a permis de m\'entrainer à la programmation orienté objet en Javascript.',
@@ -124,7 +131,7 @@ const projects = [
       'Application réalisé avec tailwind et alpine JS dans le module WEB4 de la formation Métiers du multimédia et de l\'internet.',
     stack: ['Alpine JS', 'TailwindCSS', ],
     sourceCode: 'https://github.com/MickaelLP/test-web4',
-  },
+  }
 ]
 
 const skills = [

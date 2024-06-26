@@ -35,6 +35,13 @@ const projects = [
     livePreview: 'https://cuej.info/mini-sites/animaux/www/index.php',
   },
   {
+    name: 'MK like',
+    description:
+      'Mortal Kombat like réalisé avec unity en 3D dans le cadre d\'une game jam. Année de réalisation : 2024',
+    stack: ['Unity', 'C#'],
+    sourceCode: 'https://github.com/MickaelLP/MK-like',
+  },
+  {
     name: 'Catalog Ikea',
     description:
       'Application réalisée sous unity en réalité augmenté permettant de choisir des tables et chaises et de le visualiser à partir d\'une image dans le focus de la caméra. Année de réalisation : 2024. ',

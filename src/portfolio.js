@@ -23,112 +23,112 @@ const projects = [
   {
     name: 'Symfony château',
     description:
-      'Projet d\'études afin d\'expérimenter la technologie symfony sur le thème des châteaux',
+      'Projet d\'études afin d\'expérimenter la technologie symfony sur le thème des châteaux. Année de réalisation : 2022',
     stack: ['Symfony', 'Tailwind CSS'],
     livePreview: 'https://castle.joly.etu.mmi-unistra.fr/',
   },
   {
     name: 'CUEJ - Journalisme',
     description:
-      'Collaboration avec l\'école de journalisme de Strasbourg. Le site est un CMS fait avec symfony où les étudiants de journalisme peuvent rentrer leurs articles à l\'aide d\'un back office.',
+      'Collaboration avec l\'école de journalisme de Strasbourg. Le site est un CMS fait avec symfony où les étudiants de journalisme peuvent rentrer leurs articles à l\'aide d\'un back office. Année de réalisation : 2022.',
     stack: ['Symfony', 'Tailwind CSS'],
     livePreview: 'https://cuej.info/mini-sites/animaux/www/index.php',
   },
   {
     name: 'Catalog Ikea',
     description:
-      'Application réalisée sous unity en réalité augmenté permettant de choisir des tables et chaises et de le visualiser à partir d\'une image dans le focus de la caméra.',
+      'Application réalisée sous unity en réalité augmenté permettant de choisir des tables et chaises et de le visualiser à partir d\'une image dans le focus de la caméra. Année de réalisation : 2024. ',
     stack: ['Unity', 'C#', ],
     sourceCode: 'https://github.com/MickaelLP/ikea-catalog',
   },
   {
     name: 'Snake Game',
     description:
-      'TP en javascript qui m\'a permis de m\'entrainer à la programmation orienté objet en Javascript.',
+      'TP en javascript qui m\'a permis de m\'entrainer à la programmation orienté objet en Javascript. Année de réalisation : 2023.',
     stack: ['Javascript', 'POO', ],
     livePreview: 'http://mickaeljoly.000webhostapp.com/serpent/index.html',
   },
   {
     name: 'Présentation de l\'eau',
     description:
-      'Projet en collaboration avec le parcours création numérique sur le thème de l\'eau',
+      'Projet en collaboration avec le parcours création numérique sur le thème de l\'eau. Année de réalisation : 2022.',
     stack: ['HTML5', 'Bootstrap CSS', ],
     livePreview: 'https://joly.etu.mmi-unistra.fr/SAE303/index.html',
   },
   {
     name: 'Tic tac toe',
     description:
-      'Ce projet est un mini projet dont le but est de reproduire le jeu tic tac toe avec la technologie React.',
+      'Ce projet est un mini projet dont le but est de reproduire le jeu tic tac toe avec la technologie React. Année de réalisation : 2018',
     stack: ['React', ],
     sourceCode: 'https://github.com/MickaelLP/React_ExerciceTicTacToe',
   },
   {
     name: '2xmoinscher',
     description:
-      'Reproduction de l\'ancien site e-commerce 2xmoinscher dans son design de l\'année 2001.',
+      'Reproduction de l\'ancien site e-commerce 2xmoinscher dans son design de l\'année 2001. Année de réalisation : 2022.',
     stack: ['Symfony', ],
     sourceCode: 'https://github.com/MickaelLP/2001-2xmoinscher.com',
   },
   {
     name: 'Forum Laravel',
     description:
-      'Exercice de préparation pour l\'examen sur la technologie Laravel.',
+      'Exercice de préparation pour l\'examen sur la technologie Laravel. Année de réalisation : 2023.',
     stack: ['Laravel', ],
     sourceCode: 'https://github.com/MickaelLP/2023-laravel-forum',
   },
   {
     name: 'Gestscol Laravel',
     description:
-      'Réalisation d\'un emploie du temps avec la technologie Laravel.',
+      'Réalisation d\'un emploie du temps avec la technologie Laravel. Année de réalisation : 2023.',
     stack: ['Laravel', ],
     sourceCode: 'https://github.com/MickaelLP/2023-laravel-gestscol',
   },
   {
     name: 'API Google Maps',
     description:
-      'Application en symfony permettant de réaliser des itinéraires entre plusieurs bars de Paris et Strasbourg.',
+      'Application en symfony permettant de réaliser des itinéraires entre plusieurs bars de Paris et Strasbourg. Année de réalisation : 2023.',
     stack: ['Symfony', ],
     sourceCode: 'https://github.com/MickaelLP/googlemaps-chiirz',
   },
   {
     name: 'Laravel filament',
     description:
-      'Entrainement sur la technologie Filament de Laravel.',
+      'Entrainement sur la technologie Filament de Laravel. Année de réalisation : 2023.',
     stack: ['Laravel', 'Filament', ],
     sourceCode: 'https://github.com/MickaelLP/laravel-filament',
   },
   {
     name: 'Première application sur React',
     description:
-      'Première application avec React permettant d\'expérimenter la technologie.',
+      'Première application avec React permettant d\'expérimenter la technologie. Année de réalisation : 2023',
     stack: ['React', ],
     sourceCode: 'https://github.com/MickaelLP/react-first-app',
   },
   {
     name: 'TP compteur react',
     description:
-      'Travail pratique sur la technologie react',
+      'Travail pratique sur la technologie react. Année de réalisation : 2023.',
     stack: ['React', ],
     sourceCode: 'https://github.com/MickaelLP/front5-tp-js-dom',
   },
   {
     name: 'Test 1',
     description:
-      'Premier test sur la technologie Laravel',
+      'Premier test sur la technologie Laravel. Année de réalisation : 2023.',
     stack: ['Laravel', ],
     sourceCode: 'https://github.com/MickaelLP/laravel-test-1',
   },
   {
     name: 'Test 2',
     description:
-      'Deuxième test sur la technologie Laravel',
+      'Deuxième test sur la technologie Laravel. Année de réalisation : 2023',
     stack: ['Laravel', ],
     sourceCode: 'https://github.com/MickaelLP/laravel-test-2',
   },
   {
     name: 'Test en web 4',
     description:
-      'Application réalisé avec tailwind et alpine JS dans le module WEB4 de la formation Métiers du multimédia et de l\'internet.',
+      'Application réalisé avec tailwind et alpine JS dans le module WEB4 de la formation Métiers du multimédia et de l\'internet. Année de réalisation : 2023',
     stack: ['Alpine JS', 'TailwindCSS', ],
     sourceCode: 'https://github.com/MickaelLP/test-web4',
   }

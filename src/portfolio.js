@@ -13,7 +13,7 @@ const about = {
   resume: 'https://example.com',
   social: {
     linkedin: 'https://www.linkedin.com/in/mickael-joly-8135121ab/',
-    github: 'https://github.com/MickaelLP',
+    github: 'https://github.com/Mickaeldev67',
   },
 }
 
@@ -39,14 +39,14 @@ const projects = [
     description:
       'Mortal Kombat like réalisé avec unity en 3D dans le cadre d\'une game jam. Projet individuel. Année de réalisation : 2024',
     stack: ['Unity', 'C#'],
-    sourceCode: 'https://github.com/MickaelLP/MK-like',
+    sourceCode: 'https://github.com/Mickaeldev67/MK-like',
   },
   {
     name: 'Catalog Ikea',
     description:
       'Application réalisée sous unity en réalité augmenté permettant de choisir des tables et chaises et de le visualiser à partir d\'une image dans le focus de la caméra. Projet individuel. Année de réalisation : 2024. ',
     stack: ['Unity', 'C#', ],
-    sourceCode: 'https://github.com/MickaelLP/ikea-catalog',
+    sourceCode: 'https://github.com/Mickaeldev67/ikea-catalog',
   },
   {
     name: 'Snake Game',
@@ -67,77 +67,77 @@ const projects = [
     description:
       'Ce projet est un mini projet dont le but est de reproduire le jeu tic tac toe avec la technologie React. Projet personnel individuel. Année de réalisation : 2018',
     stack: ['React', ],
-    sourceCode: 'https://github.com/MickaelLP/React_ExerciceTicTacToe',
+    sourceCode: 'https://github.com/Mickaeldev67/React_ExerciceTicTacToe',
   },
   {
     name: '2xmoinscher',
     description:
       'Reproduction de l\'ancien site e-commerce 2xmoinscher dans son design de l\'année 2001. Projet individuel. Année de réalisation : 2022.',
     stack: ['Symfony', ],
-    sourceCode: 'https://github.com/MickaelLP/2001-2xmoinscher.com',
+    sourceCode: 'https://github.com/Mickaeldev67/2001-2xmoinscher.com',
   },
   {
     name: 'Forum Laravel',
     description:
       'Exercice de préparation pour l\'examen sur la technologie Laravel. Projet individuel. Année de réalisation : 2023.',
     stack: ['Laravel', ],
-    sourceCode: 'https://github.com/MickaelLP/2023-laravel-forum',
+    sourceCode: 'https://github.com/Mickaeldev67/2023-laravel-forum',
   },
   {
     name: 'Gestscol Laravel',
     description:
       'Réalisation d\'un emploie du temps avec la technologie Laravel. Projet individuel. Année de réalisation : 2023.',
     stack: ['Laravel', ],
-    sourceCode: 'https://github.com/MickaelLP/2023-laravel-gestscol',
+    sourceCode: 'https://github.com/Mickaeldev67/2023-laravel-gestscol',
   },
   {
     name: 'API Google Maps',
     description:
       'Application en symfony permettant de réaliser des itinéraires entre plusieurs bars de Paris et Strasbourg. Projet collectif, je me suis occupé de l\'intégration de l\'API google map. Année de réalisation : 2023.',
     stack: ['Symfony', ],
-    sourceCode: 'https://github.com/MickaelLP/googlemaps-chiirz',
+    sourceCode: 'https://github.com/Mickaeldev67/googlemaps-chiirz',
   },
   {
     name: 'Laravel filament',
     description:
       'Entrainement sur la technologie Filament de Laravel. Projet individuel. Année de réalisation : 2023.',
     stack: ['Laravel', 'Filament', ],
-    sourceCode: 'https://github.com/MickaelLP/laravel-filament',
+    sourceCode: 'https://github.com/Mickaeldev67/laravel-filament',
   },
   {
     name: 'Première application sur React',
     description:
       'Première application avec React permettant d\'expérimenter la technologie. Projet individuel. Année de réalisation : 2023',
     stack: ['React', ],
-    sourceCode: 'https://github.com/MickaelLP/react-first-app',
+    sourceCode: 'https://github.com/Mickaeldev67/react-first-app',
   },
   {
     name: 'TP compteur react',
     description:
       'Travail pratique sur la technologie react. Projet individuel. Année de réalisation : 2023.',
     stack: ['React', ],
-    sourceCode: 'https://github.com/MickaelLP/front5-tp-js-dom',
+    sourceCode: 'https://github.com/Mickaeldev67/front5-tp-js-dom',
   },
   {
     name: 'Test 1',
     description:
       'Premier test sur la technologie Laravel. Projet individuel. Année de réalisation : 2023.',
     stack: ['Laravel', ],
-    sourceCode: 'https://github.com/MickaelLP/laravel-test-1',
+    sourceCode: 'https://github.com/Mickaeldev67/laravel-test-1',
   },
   {
     name: 'Test 2',
     description:
       'Deuxième test sur la technologie Laravel. Projet individuel. Année de réalisation : 2023',
     stack: ['Laravel', ],
-    sourceCode: 'https://github.com/MickaelLP/laravel-test-2',
+    sourceCode: 'https://github.com/Mickaeldev67/laravel-test-2',
   },
   {
     name: 'Test en web 4',
     description:
       'Application réalisé avec tailwind et alpine JS dans le module WEB4 de la formation Métiers du multimédia et de l\'internet. Projet individuel. Année de réalisation : 2023',
     stack: ['Alpine JS', 'TailwindCSS', ],
-    sourceCode: 'https://github.com/MickaelLP/test-web4',
+    sourceCode: 'https://github.com/Mickaeldev67/test-web4',
   }
 ]
 
